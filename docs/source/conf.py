@@ -6,11 +6,11 @@
 # -- Project information
 
 project = 'FraudLabs Pro Scala'
-copyright = '2025, FraudLabs Pro'
+copyright = '2026, FraudLabs Pro'
 author = 'FraudLabs Pro'
 
-release = '4.0.0'
-version = '4.0.0'
+release = '4.1.0'
+version = '4.1.0'
 
 # -- General configuration
 

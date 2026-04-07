@@ -6,7 +6,7 @@ object FraudLabsPro {
    *
    * string
    */
-  val VERSION = "4.0.0"
+  val VERSION = "4.1.0"
   /**
    * Source of the API calls
    */

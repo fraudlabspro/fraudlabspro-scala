@@ -7,8 +7,8 @@
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="modules">
           <set>
-            <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/project" />
+            <option value="C:\inetpub\wwwroot\fraudlabspro-scala" />
+            <option value="C:\inetpub\wwwroot\fraudlabspro-scala\project" />
           </set>
         </option>
         <option name="sbtVersion" value="1.11.6" />
